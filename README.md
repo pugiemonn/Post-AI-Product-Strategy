@@ -35,8 +35,11 @@ AI時代におけるプロダクトの核心は、AIが提示した候補に対�
 
 ---
 
-### 🛠️ Process & Governance
-本ドキュメントの構成および記述の初稿には AI（LLM）を活用しています。
-AIが過去のデータから「提示・構成」した内容を、筆者が責任を持って選別・改訂・再定義し、
-「プロダクトの責任の所在」を明確にするプロセスを経て公開しています。
-[AI-Assisted, Human-Decided]
+### 🛠️ Process & Governance / License
+
+本ドキュメントの構成および記述の初稿には AI（LLM）を活用しています。AIが過去のデータから「提示・構成」した内容を、筆者がプロダクトの責任（Ownership）に基づき選別・改訂・再定義し、「責任の所在」を明確にするプロセスを経て公開しています。
+
+*   **Process**: [AI-Assisted, Human-Decided]
+*   **License**: [MIT License](./LICENSE)
+*   **Copyright**: (c) 2026 pugiemonn
+
